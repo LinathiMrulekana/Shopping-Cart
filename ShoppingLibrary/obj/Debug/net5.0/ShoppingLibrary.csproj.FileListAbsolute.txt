@@ -1,0 +1,12 @@
+C:\excersise\Repos\ShoppingLibrary\bin\Debug\net5.0\ShoppingLibrary.deps.json
+C:\excersise\Repos\ShoppingLibrary\bin\Debug\net5.0\ShoppingLibrary.dll
+C:\excersise\Repos\ShoppingLibrary\bin\Debug\net5.0\ShoppingLibrary.pdb
+C:\excersise\Repos\ShoppingLibrary\obj\Debug\net5.0\ShoppingLibrary.csproj.AssemblyReference.cache
+C:\excersise\Repos\ShoppingLibrary\obj\Debug\net5.0\ShoppingLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\excersise\Repos\ShoppingLibrary\obj\Debug\net5.0\ShoppingLibrary.AssemblyInfoInputs.cache
+C:\excersise\Repos\ShoppingLibrary\obj\Debug\net5.0\ShoppingLibrary.AssemblyInfo.cs
+C:\excersise\Repos\ShoppingLibrary\obj\Debug\net5.0\ShoppingLibrary.csproj.CoreCompileInputs.cache
+C:\excersise\Repos\ShoppingLibrary\obj\Debug\net5.0\ShoppingLibrary.dll
+C:\excersise\Repos\ShoppingLibrary\obj\Debug\net5.0\refint\ShoppingLibrary.dll
+C:\excersise\Repos\ShoppingLibrary\obj\Debug\net5.0\ShoppingLibrary.pdb
+C:\excersise\Repos\ShoppingLibrary\obj\Debug\net5.0\ref\ShoppingLibrary.dll
