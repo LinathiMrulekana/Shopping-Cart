@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\excersise\\Repos\\ShoppingCartApp\\ShoppingCartApp.csproj": {}
+    "C:\\excersise\\Repos\\Shopping Cart\\ShoppingCartApp\\ShoppingCartApp.csproj": {}
   },
   "projects": {
-    "C:\\excersise\\Repos\\ShoppingCartApp\\ShoppingCartApp.csproj": {
+    "C:\\excersise\\Repos\\Shopping Cart\\ShoppingCartApp\\ShoppingCartApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\excersise\\Repos\\ShoppingCartApp\\ShoppingCartApp.csproj",
+        "projectUniqueName": "C:\\excersise\\Repos\\Shopping Cart\\ShoppingCartApp\\ShoppingCartApp.csproj",
         "projectName": "ShoppingCartApp",
-        "projectPath": "C:\\excersise\\Repos\\ShoppingCartApp\\ShoppingCartApp.csproj",
+        "projectPath": "C:\\excersise\\Repos\\Shopping Cart\\ShoppingCartApp\\ShoppingCartApp.csproj",
         "packagesPath": "C:\\Users\\Linathi Mrulekana\\.nuget\\packages\\",
-        "outputPath": "C:\\excersise\\Repos\\ShoppingCartApp\\obj\\",
+        "outputPath": "C:\\excersise\\Repos\\Shopping Cart\\ShoppingCartApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Linathi Mrulekana\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\excersise\\Repos\\ShoppingLibrary\\ShoppingLibrary.csproj": {
-                "projectPath": "C:\\excersise\\Repos\\ShoppingLibrary\\ShoppingLibrary.csproj"
+              "C:\\excersise\\Repos\\Shopping Cart\\ShoppingLibrary\\ShoppingLibrary.csproj": {
+                "projectPath": "C:\\excersise\\Repos\\Shopping Cart\\ShoppingLibrary\\ShoppingLibrary.csproj"
               }
             }
           }
@@ -62,14 +62,14 @@
         }
       }
     },
-    "C:\\excersise\\Repos\\ShoppingLibrary\\ShoppingLibrary.csproj": {
+    "C:\\excersise\\Repos\\Shopping Cart\\ShoppingLibrary\\ShoppingLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\excersise\\Repos\\ShoppingLibrary\\ShoppingLibrary.csproj",
+        "projectUniqueName": "C:\\excersise\\Repos\\Shopping Cart\\ShoppingLibrary\\ShoppingLibrary.csproj",
         "projectName": "ShoppingLibrary",
-        "projectPath": "C:\\excersise\\Repos\\ShoppingLibrary\\ShoppingLibrary.csproj",
+        "projectPath": "C:\\excersise\\Repos\\Shopping Cart\\ShoppingLibrary\\ShoppingLibrary.csproj",
         "packagesPath": "C:\\Users\\Linathi Mrulekana\\.nuget\\packages\\",
-        "outputPath": "C:\\excersise\\Repos\\ShoppingLibrary\\obj\\",
+        "outputPath": "C:\\excersise\\Repos\\Shopping Cart\\ShoppingLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Linathi Mrulekana\\AppData\\Roaming\\NuGet\\NuGet.Config",
